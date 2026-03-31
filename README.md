@@ -39,7 +39,9 @@ The project focuses on responsible use of digital tools, effective communication
 ### 💻 Task 3: Platforms
 - Solved coding problem on HackerRank  
 - Created Google Form quiz  
-- Learned data collection and online tools  
+- Learned data collection and online tools
+👉 🔗 **Google Form (Digital Literacy Awareness Quiz for Batchmates):**  
+[Open Form](https://docs.google.com/forms/d/e/1FAIpQLSecloyp7eIafKcfr7bbZOArdM9bkwM0qJbAuZ8Em1Ky9TCcvg/viewform)
 
 ---
 
