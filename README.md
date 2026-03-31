@@ -75,7 +75,7 @@ The project focuses on responsible use of digital tools, effective communication
 ---
 
 ## 🔗 Repository Link
-👉  
+👉  https://github.com/arunverma387/ARUN-VERMA-25BCY10097-DIGITAL-LITERACY-PROJECT
 
 ---
 
